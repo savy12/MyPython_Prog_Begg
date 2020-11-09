@@ -13,7 +13,9 @@ def cal1():
     e1.insert(0,var7)
 def mclear():
     e1.delete(0,END)
+    e1.insert(0,0)
     e2.delete(0,END)
+    e2.insert(0,0)
 
 n = 'arial',14,'italic'
 Label(root,text='gallons',padx=25,font=(n)).grid(row=0,sticky=W)
