@@ -1,1 +1,1 @@
-This is my some of the beginning python programs.
+These are some of my beginner python programs and practice.
